@@ -19,7 +19,7 @@ La función debe devolver el valor equivalente en la moneda extranjera.
 Nota importante para la investigación:
 Antes de crear la función, realiza lo siguiente:
 
-Investiga cuál es la fórmula adecuada para convertir una cantidad de dinero de una moneda a otra usando una tasa de cambio.
+Investiga cuál es la fórmula adecuada para convertir una cantidad de dinero de una moneda a otra usando una tasa de cambio. (RESPUESTA) Esto lleva una formula elaborada, la cual necesita tu en ese momento presupuesto y la tasa de cambio de el pais que estas. En el caso que nos pusieron serian Presupuesto: 300 USD/Tasa: 0.0075, y asi seria un ejemplo de la formula.
 
 Consulta fuentes confiables (por ejemplo, Google, sitios de conversión de divisas o bancos) para identificar la tasa de cambio de al menos tres países diferentes (puedes elegir Japón, México, Alemania, Colombia, etc.).
 
@@ -40,3 +40,4 @@ Fomentar la búsqueda activa de información y uso de datos reales (tasas de cam
 Aplicar razonamiento lógico y matemático para resolver problemas cotidianos.
 
 Valorar cómo la programación puede ser útil en la vida diaria.
+
